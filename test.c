@@ -83,6 +83,7 @@ static struct message messages[5];
 static int num_messages;
 static http_parser_settings *current_pause_parser;
 
+
 /* * R E Q U E S T S * */
 const struct message requests[] =
 #define CURL_GET 0
